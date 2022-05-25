@@ -1,0 +1,3 @@
+[submodule "Libraries/esp32cam"]
+	path = Libraries/esp32cam
+	url = https://github.com/Penumbrage/esp32cam.git
