@@ -9,8 +9,8 @@
 #include <WiFiClient.h>
 #include <WiFiAP.h>
 
-const char* ssid_Router     =   "********";   //Modify according to your router name
-const char* password_Router =   "********";   //Modify according to your router password
+const char* ssid_Router     =   "NETGEAR10";   //Modify according to your router name
+const char* password_Router =   "classygiant284";   //Modify according to your router password
 const char* ssid_AP         =   "Sunshine";   //ESP32 turns on an AP and calls it Sunshine
 const char* password_AP     =   "Sunshine";   //Set your AP password for ESP32 to Sunshine
 WiFiServer server_Cmd(4000);
